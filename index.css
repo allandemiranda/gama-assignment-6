@@ -62,3 +62,13 @@ body {
 .conteudo {
     padding: 1.5em 2em;
 }
+
+.conteudo-perfil {
+    padding: 1.5em 2em;
+}
+
+.conteudo-perfil>img {
+    float: left;
+    height: 300px;
+    padding: 1% 2% 2% 0%;
+}
